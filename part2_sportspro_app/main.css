@@ -1,0 +1,125 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    text-align: center;
+}
+
+/* Header + Logo */
+.app-header {
+    border-bottom: 2px solid #e60000;
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.logo {
+    height: 100px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Main Title */
+h1 {
+    color: #e60000;
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+}
+
+.welcome-text {
+    color: #eeeeee;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+/* Summary stats boxes */
+.dashboard-summary {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.summary-box {
+    background-color: #1a1a1a;
+    border: 1px solid #e60000;
+    padding: 1rem 2rem;
+    color: white;
+    border-radius: 8px;
+    min-width: 120px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+/* Cards container */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+/* Card style */
+.card {
+    background-color: #1a1a1a;
+    padding: 2rem;
+    width: 260px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.card h2 {
+    color: #e60000;
+    border-bottom: 2px solid #e60000;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.card p {
+    font-size: 0.95rem;
+    color: #ddd;
+    margin-bottom: 1.2rem;
+}
+
+/* Red "Go" Button */
+.btn {
+    background-color: #e60000;
+    color: white;
+    padding: 0.4rem 1.2rem;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background 0.2s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #ff1a1a;
+}
+
+/* Footer */
+.footer {
+    color: #aaa;
+    font-size: 0.85rem;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #333;
+}

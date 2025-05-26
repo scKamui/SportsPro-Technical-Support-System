@@ -1,0 +1,15 @@
+-- COMP 3541 - Assignment 2 (Part 1)
+-- Query Results Summary - Samar Chauhan
+
+-- Q1 Result:
+1 customer found with the name "Brown" (case-insensitive search passed)
+
+-- Q2 Result:
+Query executed successfully, but 0 rows were affected.
+No products had listPrice greater than $2000
+
+-- Q3 Result:
+1 new order inserted successfully (orderID = 4)
+
+-- Q4 Result:
+2 orders deleted from the orders table (matching date range: 2017-06-01 to 2017-06-07) 

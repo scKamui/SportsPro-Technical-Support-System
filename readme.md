@@ -3,6 +3,25 @@ Sports Pro Technical Support System
 
 Name: Samar Chauhan
 ⸻
+<img width="1440" height="769" alt="Screenshot 2025-07-25 at 9 36 08 PM" src="https://github.com/user-attachments/assets/253ddad5-661b-42b9-9905-36544c6d4ceb" />
+
+<img width="1440" height="778" alt="Screenshot 2025-07-25 at 9 36 55 PM" src="https://github.com/user-attachments/assets/df5b2acf-2e0f-488f-ae21-15c41ac4f422" />
+
+<img width="1440" height="780" alt="Screenshot 2025-07-25 at 9 37 12 PM" src="https://github.com/user-attachments/assets/d190154f-40b4-4fb0-9166-d7f0a6478227" />
+
+<img width="1439" height="778" alt="Screenshot 2025-07-25 at 9 37 25 PM" src="https://github.com/user-attachments/assets/b821a407-733c-44b6-8af4-c663c45c3fae" />
+
+<img width="1440" height="780" alt="Screenshot 2025-07-25 at 9 37 38 PM" src="https://github.com/user-attachments/assets/d75adc1f-7940-4dd8-b750-26734775ce37" />
+
+<img width="1440" height="774" alt="Screenshot 2025-07-25 at 9 37 52 PM" src="https://github.com/user-attachments/assets/7cb65b0a-4267-4985-93e3-f54cf1823e2c" />
+
+<img width="1440" height="778" alt="Screenshot 2025-07-25 at 9 38 03 PM" src="https://github.com/user-attachments/assets/fdf55f6f-ccda-4331-9221-6ae9e5eee23e" />
+
+<img width="1440" height="776" alt="Screenshot 2025-07-25 at 9 38 19 PM" src="https://github.com/user-attachments/assets/e06bb3e3-32aa-4b28-9158-c8546d0a335a" />
+
+<img width="1440" height="766" alt="Screenshot 2025-07-25 at 9 38 39 PM" src="https://github.com/user-attachments/assets/250b231d-cae3-4904-8d5e-49da6854917a" />
+
+
 
 Overview of the Application
 

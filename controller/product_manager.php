@@ -3,7 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-require('db.php');
+require_once('../config/db.php');
 
 // Handle delete if form is submitted
 if (isset($_POST['delete_product'])) {
@@ -27,7 +27,7 @@ $statement->closeCursor();
 <html>
 <head>
     <title>Product Manager</title>
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
     <h1>Product List</h1>
@@ -54,8 +54,9 @@ $statement->closeCursor();
         </tr>
         <?php endforeach; ?>
     </table>
-
-    <p><a href="product_add.php">Add Product</a></p>
-    <p><a href="index.php">Home</a></p>
+    <div class="button-group">
+        <a href="product_add.php" class="btn">Add Product</a>
+        <a href="/COMP3541_A3_Samar_Chauhan/index.php" class="btn">Home</a>
+    </div> 
 </body>
 </html>
